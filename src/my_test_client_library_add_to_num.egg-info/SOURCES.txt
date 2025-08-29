@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/client_library/__init__.py
+src/client_library/core.py
+src/client_library/helper.py
+src/my_test_client_library_add_to_num.egg-info/PKG-INFO
+src/my_test_client_library_add_to_num.egg-info/SOURCES.txt
+src/my_test_client_library_add_to_num.egg-info/dependency_links.txt
+src/my_test_client_library_add_to_num.egg-info/requires.txt
+src/my_test_client_library_add_to_num.egg-info/top_level.txt
+tests/test_core.py
+tests/test_helper.py
