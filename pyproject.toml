@@ -3,10 +3,10 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "my-awesome-library"
+name = "client-library"
 version = "0.1.0"
-authors = [{ name = "Your Name", email = "your.email@example.com" }]
-description = "A short description of my awesome library."
+authors = [{ name = "Maxim", email = "imaks1464@gmail.com" }]
+description = "A short description of client library."
 readme = "README.md"
 license = { file = "LICENSE" }
 classifiers = [
@@ -20,5 +20,5 @@ dependencies = [  # Зависимости, которые автоматиче�
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/my_awesome_library"
-Bug-Tracker = "https://github.com/yourusername/my_awesome_library/issues"
+Homepage = "https://github.com/MIslit/client_library"
+Bug-Tracker = "https://github.com/MIslit/client_library/issues"
